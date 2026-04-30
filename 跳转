@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="▶ 点击进入：高清完整版播放页面">
+    <meta name="twitter:description" content="本视频由官方授权，点击卡片跳转至 eee.oo 观看">
+    <meta name="twitter:image" content="https://i.postimg.cc/DyJ15YfQ/photo-2026-04-30-15-08-15.jpg">
+
+    <script>
+        // 关键：1秒后自动跳转到你的目标地址
+        setTimeout(function(){
+            window.location.href = "https://qqc.ai"; 
+        }, 1000);
+    </script>
+</head>
+<body>
+    <div style="text-align:center; margin-top:50px;">
+        <p>正在为您加载加密播放频道...</p>
+        <p>请稍候...</p>
+    </div>
+</body>
+</html>
